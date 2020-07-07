@@ -1,0 +1,163 @@
+END-USER LICENSE AGREEMENT
+最终用户许可协议
+
+Languages: 简体中文, English.
+
+简体中文
+
+最后更新：2020年7月7日
+适用版本：V1.0
+
+
+在下载、继续安装和使用前，请仔细阅读最终用户许可协议（“协议”）。
+
+当您下载、继续安装和继续使用，即表示您已同意协议。
+
+如果您不同意协议内容，请勿下载、继续安装或继续使用。
+
+
+1.﷒限制
+
+您同意不这样做，并且不允许其他人：
+a) 对序列号和软件保护措施进行破解；
+b) 当软件尚未完全开源时，对未开源的部分反编译；
+c) 使用软件违反法律或伤害他人；
+d) 使用软件做当地法律所禁止的其他行为。
+
+
+2. 不提供担保
+
+2.1 本软件按“原样”提供，没有任何形式的保证、明示或暗示，包括但不限于
+对适销性，特定目的适用性和非侵权性的保证。无论是由于软件，使用或其他
+方式产生的、与软件有关的、与软件有关的或与软件有关的使用、侵权或其他
+形式的索赔，损害或其他责任，作者或版权持有人均不承担任何责任。
+2.2 本软件可能因为多种因素无法提供准确的结果。
+2.3 本软件可能因为多种因素无法正确运行，并可能损害设备，虽然出现这种
+情况的概率很低。
+
+
+3. 协议终止
+
+3.1 协议在您或我们终止前有效。
+3.2 协议将在以下情形立即失效，无论我们通知与否：
+a) 您不遵守协议中的任何一项规定；
+b) 您从您的所有设备中删除本程序的所有副本。
+3.3 本协议终止后，您应停止使用本程序，并从您的所有设备上删除该应用程
+序的所有副本。
+
+
+4. 可分割性
+
+如果本协议中的任何一部分被裁定为不可执行或无效，则该条款将被修正或解
+释，其余条款仍然将发挥全部效力。
+
+
+5. 用户体验反馈计划 (CEFP)
+
+5.1 用户体验反馈计划 (Customer Experience Feedback Program, CEFP) 由
+用户决定是否参加。如果不参加，请在软件关闭提醒进入CEFP时选择不参加的
+选项。
+5.2 CEFP可能包含第三方服务。
+5.2.1 当您进行反馈，我们使用您的默认邮箱程序(mailto)向我们发送电子邮
+件。邮件由您编写并发送。
+5.2.2 您的邮箱程序、邮件服务器、网络服务提供商等可能会收取您在发送电
+子邮件时的费用，例如网络流量，请留意。
+5.3 请勿在反馈信息中包含任何个人信息。
+5.4 我们可能会对软件进行正反馈调节和负反馈调节，也有可能不调整，这取
+决于我们的策略。
+
+
+6. 其他
+
+本协议未提及的其他事宜，请与作者联系。
+
+这是最终用户许可协议的结尾（简体中文）。
+
+English
+
+Last update: July 7, 2020
+Application version: V1.0
+
+
+Please read the end-user license agreement ("Agreement") carefully 
+before downloading, continuing installation and use.
+
+When you download, continue to install and continue to use, it means 
+that you have agreed to the agreement.
+
+If you do not agree with the contents of the agreement, please do 
+not download, continue to install or continue to use.
+
+
+1. Restrictions
+
+You agree not to do so, and allow others to:
+a) Crack the serial number and software protection measures;
+b) When the software is not completely open source, decompile the 
+part that is not open source;
+c) Use the software to violate the law or hurt others;
+d) Use the software to do other activities prohibited by local laws.
+
+
+2. No warranty
+
+2.1 The software is provided “as is”, without warranty of any kind, 
+express or implied, including but not limited to the warranties of 
+merchantability, fitness for a particular purpose and 
+Noninfringement. In no event shall the authors or copyright holders 
+be liable for any claim, damages or other liability, whether in an 
+action of contract, tort or otherwise, arising from, out of or in 
+connection with the software or the use or other dealings in the 
+software.
+2.2 This software may not provide accurate results due to various 
+factors.
+2.3 This software may not run correctly due to various factors and 
+may damage the device, although the probability of this situation is 
+very low.
+
+
+3. Termination of the agreement
+
+3.1 The agreement is valid until you or us terminate it.
+3.2 The agreement will be terminated immediately in the following 
+initial state, whether we notify or not:
+a) You do not comply with any of the provisions of the agreement;
+b) You delete all copies of this program from all your devices.
+3.3 After termination of this agreement, you should stop using this 
+program and delete all copies of the application from all your 
+devices.
+
+
+4. Severability
+
+If any part of this agreement is determined by the tailor to be 
+unenforceable or invalid, the clause will be amended or interpreted, 
+and the remaining clauses will still have full effect.
+
+
+5. User Experience Feedback Program (CEFP)
+
+5.1 The User Experience Feedback Program (CEFP) is up to the user to 
+decide whether to participate. If you do not participate, please 
+select the option not to participate when the software closes the 
+reminder to enter CEFP.
+5.2 CEFP may include third-party services.
+5.2.1 When you make feedback, we use your alternate mail program 
+(mailto) to send us emails. The mail is written and sent by you.
+5.2.2 Your email program, mail server, network service provider, 
+etc. may be charged by you when sending e-mail, such as network 
+traffic, please pay attention.
+5.3 Do not include any personal information in the feedback 
+information.
+5.4 We may perform positive feedback adjustment and negative 
+feedback adjustment on the software, or may not adjust it. This is 
+our strategy.
+
+
+6. Other
+
+For other proposals not mentioned in this agreement, please contact 
+the author.
+
+This is the end of the EULA (English).
+
