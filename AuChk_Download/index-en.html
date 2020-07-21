@@ -10,25 +10,25 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark"> <a class="navbar-brand" href="../index.html">Iamsqy</a> </nav>
-<p class="alert">您是否在寻找<a href="index.html">中文版</a>网页？</p>
-<p class="alert-danger" align="center"><strong>HEADS UP: This page may be out of date</strong>. Pages in Chinese was modified but not translated, and this page was still the old version.<br><strong>请注意: 此页面可能过时</strong>。中文版网页已经更改但未翻译，此页面仍是旧版本。</p>
-	<div class="container mt-2">
+<p class="alert">您是否在寻找 <a href="index.html">中文版网页</a> ？<a class="text-info">The translator is not familiar with English. Some contents changed recently may not translate to English in time.</a></p>
+<div class="container mt-2">
 	<div class="row">
 		<div class="col-12">
 			<div class="jumbotron">
 				<h1 class="text-center">AuChk - Audio Resource Check Program</h1>
 				<div class="row justify-content-center">
 					<div class="col-auto">
-						<p><a class="btn btn-success btn-lg" href="setup.exe" role="button">Download</a> </p>
+						<p><a class="btn btn-success btn-lg" href="https://github.com/iamsqy/iamsqy.github.io/releases/download/v1.0-beta/setup.exe" role="button">Download</a> </p>
 					</div>
 					<div class="col-auto">
-						<p><a class="btn btn-primary btn-lg" href="#SN" role="button">Activation</a> </p>
+						<p><a class="btn btn-primary btn-lg" href="#SN" role="button">Activate</a> </p>
 					</div>
 				</div>
-				<p class="text-center">By clicking any buttons above, you are agree to our <a href="LicenseAgreement.txt">License Agreement &amp; Terms and conditions</a>. Once "Download" is clicked, download should be started. If not, <a href="#SN">select another version</a>.</p>
-				<p class="text-center">AuChk can help to check the audio file when radio boardcasting.</p>
-				<p class="text-center">CURRENT VERSION: Insider Preivew (testing)</p>
-				<p class="text-center">SUPPORTED OS: Windows 10 and<a href="javascript:alert('Apart from Windows 10, according to the tests, this program can be run in these operating systems: \n\nWindows Server 2016, Windows 7, Windows Server 2003, Windows XP.\n\nOther versions are not tested, but it should be okay if Windows Media Player is installed.')">other versions of Windows</a>.</p>
+				<p class="text-center">By clicking any of the buttons above, you agree to our <a href="EULA.html">end user license agreement</a>.</p>
+				<p class="text-center">When you click "Download", the download should start (linked to GitHub Releases). If not, visit <a href="#DownloadErr" class="btn btn-light">Encountered Download Problems</a>, or <a href="#DownloadErr">select another version</a> to download.</p>
+				<p class="text-center">AuChk helps school radio club check whether the audio format used is WMP-recognizable before making a radio program.</p>
+				<p class="text-center">CURRENT VERSION: V1.0 (Beta β)</p>
+				<p class="text-center">SUPPORTED OS: Windows 10 and <a href="javascript:alert('Apart from Windows 10, according to the tests, this program can be run in these operating systems: \n\nWindows Server 2016, Windows 7, Windows Server 2003, Windows XP.\n\nOther versions are not tested, but it should be okay if Windows Media Player is installed.')">other versions of Windows</a>.</p>
 			</div>
 		</div>
 	</div>
@@ -42,7 +42,7 @@
 				RAM: 256 MB or higher<br />
 				Storage: 16 MB for installation<br />
 				Hardware: Sound card and drivers<br />
-				Software: Windows Media Player is installed</p>
+			Software: Windows Media Player is installed</p>
 		</div>
 		<div class="text-left col-md-6 col-12">
 			<h2>Recommended System Requirements</h2>
@@ -50,7 +50,7 @@
 				RAM: 2 GB or higher<br />
 				Storage: 16 MB for installation<br />
 				Hardware: Sound card and drivers<br />
-				Software: Windows Media Player version 12.0.9600.17031 is installed</p>
+			Software: Windows Media Player version 12.0.9600.17031 is installed</p>
 		</div>
 	</div>
 </div>
@@ -60,18 +60,38 @@
 		<div class="col-sm-6">
 			<div class="card" id="SN">
 				<div class="card-body">
-					<h5 class="card-title">Get S/N</h5>
-					<p class="card-text">This software requires S/N to avoid incorrect distribution.</p>
-					<a href="GetSN.html" class="btn btn-primary">Get the Serial Number</a> </div>
+					<h5 class="card-title">Get the Serial Number</h5>
+					<p class="card-text">To ensure that this software is not misdistributed, the software requires a serial number when it is installed.</p>
+					<a href="GetSN.html" class="btn btn-primary">Get the S/N</a> </div>
 			</div>
 		</div>
 		<div class="col-sm-6">
-			<div class="card">
+			<div class="card" id="DownloadErr">
 				<div class="card-body">
-					<h5 class="card-title">Other Ver</h5>
-					<p class="card-text">Select another verison if current version could not be downloaded or is unavailable.</p>
+					<h5 class="card-title">Other Versions</h5>
+					<p class="card-text">If the current version cannot be downloaded or does not apply, select a different version to download.</p>
 					<a href="oldVer.html" class="btn btn-primary">Download Another Version</a> </div>
 			</div>
+		</div>
+	</div>
+</div>
+<hr>
+<div class="container">
+	<div class="card">
+		<div class="col-sm-6 col-md-12">
+			<div class="card-body">
+				<h5 class="card-title">Questions About Downloading</h5>
+				<p class="card-text alert-warning">⚠ The solutions below are for the users who cannot access GitHub, but can access websites such as Gitee and Baidu.</p>
+				<p class="card-text">We uploaded the releases to <a href="https://github.com" title="访问GitHub.com">GitHub</a>, and we also synchronized <a href="https://github.com/iamsqy/iamsqy.github.io">GitHub's repository</a> on <a href="https://gitee.com" title="Gitee.com">Gitee</a>.</p>
+				<p class="card-text">Due to the Firewall restrictions, <a href="https://github.com/iamsqy/iamsqy.github.io/releases/download/v1.0-beta/setup.exe">the releases link of GitHub</a> might unable to accessible in some regions. Due to the restrictions of Gitee, you must have a Gitee account to access <a href="https://gitee.com/iamsqy/iamsqy.github.io/attach_files/430496/download">releases of Gitee</a>. We also uploaded the installer to <a href="https://pan.baidu.com/s/1o7UHcS7Oz2P5yjFB2rXckQ">the net disk</a>. If none of these methods worked, please <a href="mailto:iamsqy@outlook.com">mail to Iamsqy</a>.</p>
+				<a href="https://github.com/iamsqy/iamsqy.github.io/releases/download/v1.0-beta/setup.exe" class="btn btn-outline-info" title="Might blocked by the Firewall">Download - GitHub Releases</a>&nbsp;
+				<a href="https://gitee.com/iamsqy/iamsqy.github.io/attach_files/430496/download" class="btn btn-outline-primary" title="Might unable to download due to Gitee's account restrictions">Download - Gitee Releases</a>&nbsp;
+				<a href="https://pan.baidu.com/s/1o7UHcS7Oz2P5yjFB2rXckQ" class="btn btn-outline-primary" target="_blank" title="Ext. code: db6f">Download - 某度 Net Disk</a> Ext. code: <code>db6f</code><br><br>
+				<p class="card-text alert-success">💬 Of course, if you can access GitHub.io but can't download Releases, you can also download the zipped package below.</p>
+				<a href="https://iamsqy.github.io/AuChk_Download/setup.zip" class="btn btn-outline-info" title="Unavailable if cannot access to GitHub.io">Download - A ZIP Copy on GitHub Pages</a><br><br>
+				<p class="card-text">You can also visit the Releases page on GitHub and Gitee.</p>
+				<a href="https://github.com/iamsqy/iamsqy.github.io/releases" class="btn btn-outline-secondary">Visit GitHub Releases</a>&nbsp;
+				<a href="https://gitee.com/iamsqy/iamsqy.github.io/releases/v1.0-beta" class="btn btn-outline-secondary">Visit Gitee Releases</a></div>
 		</div>
 	</div>
 </div>
@@ -81,7 +101,7 @@
 		<div class="col-lg-4 col-md-6 col-sm-6 mb-md-0 mb-2">
 			<h2>Contact Us</h2>
 			<address>
-			<strong>Radio &amp; TV Station</strong><br>
+			<strong>School Radio &amp; TV Station</strong><br>
 			Go to <a href="http://www.dl23zx.com/">School Official Website</a>. <br />
 			<strong>Programmer</strong><br>
 			Go to <a href="mailto:iamsqy@outlook.com">your mailbox</a> to contact us.
@@ -90,17 +110,17 @@
 		<div class="col-lg-4 col-md-6 col-12">
 			<h2>Students in Charge</h2>
 			<ul class="list-unstyled">
-				<li class="media">
-					<div class="media-body">
-						<h5 class="mt-0 mb-1">Tech Dept.</h5>
-						<p class="mb-0">QiYang Sun, 2018, Class 6.</p>
-						<p class="mb-0">YuTing Liang, 2018, Class 6.</p>
-					</div>
-				</li>
 				<li class="media my-4">
 					<div class="media-body">
-						<h5 class="mt-0 mb-1">Station Master</h5>
-						<p class="mb-0">YuRui Cao, 2018, Class 4.</p>
+						<h5 class="mt-0 mb-1">Master of Station</h5>
+						<p class="mb-0">Y. Cao, 2018, Class 4.</p>
+					</div>
+				</li>
+				<li class="media">
+					<div class="media-body">
+						<h5 class="mt-0 mb-1">Master of Tech Debt.</h5>
+						<p class="mb-0">Q. Sun, 2018, Class 6.</p>
+						<p class="mb-0">Y. Liang, 2018, Class 6.</p>
 					</div>
 				</li>
 			</ul>
